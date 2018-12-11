@@ -1,0 +1,9 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-repeat: no-repeat;
+    background: linear-gradient(217deg, rgba(173, 63, 55, .8), rgba(173, 63, 55, 0) 70.71%),
+        linear-gradient(127deg, rgba(250, 114, 104, .8), rgba(250, 114, 104, 0) 70.71%),
+        linear-gradient(336deg, rgba(64, 117, 173, .8), rgba(64, 117, 173, 0) 70.71%);
+}

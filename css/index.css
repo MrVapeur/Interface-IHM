@@ -1,5 +1,17 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-repeat: no-repeat;
+    background: linear-gradient(217deg, rgba(173, 63, 55, .8), rgba(173, 63, 55, 0) 70.71%),
+        linear-gradient(127deg, rgba(250, 114, 104, .8), rgba(250, 114, 104, 0) 70.71%),
+        linear-gradient(336deg, rgba(64, 117, 173, .8), rgba(64, 117, 173, 0) 70.71%);
+}
+
 body#LoginForm {
-    background-image: url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg");
+    /*background-image: url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg");*/
+    height: 100%;
+    background: linear-gradient(#e66465, #9198e5);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
