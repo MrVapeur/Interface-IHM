@@ -21,6 +21,5 @@ body {
 }
 
 .card-footer{
-    background:/* linear-gradient(90deg, rgba(173, 63, 55, .8), rgba(173, 63, 55, .6) 70.71%)
-        , */linear-gradient(90deg, rgba(64, 117, 173, 1), rgba(64, 117, 173, .8) 70.71%);
+    background:
 }
