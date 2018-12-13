@@ -5,32 +5,35 @@
  */
 
 body {
-  background: linear-gradient(135deg,#e66465, #9198e5);
+    /*background: linear-gradient(135deg,#e66465, #9198e5);*/
+    background-color: #FAACA8;
+    background-image: linear-gradient(19deg, #FAACA8 9%, #DDD6F3 94%);
+
 }
 
 @media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
+    body {
+        padding-top: 56px;
+    }
 }
 
-.card-footer{
+.card-footer {
     background:
 }
 
 .navbar-brand:focus {
- color: #e66465;
+    color: #e66465;
 }
 
-.list-group-item{
+.list-group-item {
 
-    background-color:  #fff2f2;
-}
-
-.card{
     background-color: #fff2f2;
 }
 
-footer{
+.card {
+    background-color: #fff2f2;
+}
+
+footer {
     background-color: #fff2f2;
 }
