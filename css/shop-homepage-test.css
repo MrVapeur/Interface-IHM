@@ -34,6 +34,15 @@ body {
     background-color: #fff2f2;
 }
 
+.banniere{
+    align-content: center;
+    padding: 10px;
+}
+
+.img-fluid{
+    align-content: center;
+}
+
 footer {
     background-color: #fff2f2;
 }
